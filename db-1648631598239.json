@@ -23,13 +23,7 @@
       "id": 2
     }
   ],
-  "users": [
-    {
-      "name": "Andrew",
-      "email": "anderw@pureaquasprings.com",
-      "id": 1
-    }
-  ],
+  "users": [],
   "robots": [
     {
       "robotName": "C8-09S100K",
